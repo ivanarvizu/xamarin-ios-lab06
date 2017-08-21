@@ -1,0 +1,13 @@
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\Lab05.csprojResolveAssemblyReference.cache
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\bin\iPhoneSimulator\Debug\Lab05.exe
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\bin\iPhoneSimulator\Debug\Lab05.pdb
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\Lab05.exe
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\obj\iPhoneSimulator\Debug\Lab05.pdb
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\bin\iPhoneSimulator\Debug\SALLab05.dll
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab05\Lab05\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
