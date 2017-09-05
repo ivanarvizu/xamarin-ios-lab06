@@ -74,7 +74,7 @@ namespace Lab05
         async void Validate()
         {
             var Client = new SALLab05.ServiceClient();
-            var Result = await Client.ValidateAsync("ivanarvizu@outlook.com", "", this);
+            var Result = await Client.ValidateAsync("", "", this);
 
             var Alert = UIAlertController.Create("Resultado"
                        , $"{Result.Status}\n{Result.FullName}\n{Result.Token}"
