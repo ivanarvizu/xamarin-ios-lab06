@@ -23,19 +23,15 @@ namespace Lab05
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton GotoValidate { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField PhoneNumberText { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton TranslateButton { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton ValidateButton { get; set; }
-
-        [Action ("ValidateButton_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void ValidateButton_TouchUpInside (UIKit.UIButton sender);
 
         void ReleaseDesignerOutlets ()
         {
@@ -49,6 +45,11 @@ namespace Lab05
                 CallHistoryButton = null;
             }
 
+            if (GotoValidate != null) {
+                GotoValidate.Dispose ();
+                GotoValidate = null;
+            }
+
             if (PhoneNumberText != null) {
                 PhoneNumberText.Dispose ();
                 PhoneNumberText = null;
@@ -57,11 +58,6 @@ namespace Lab05
             if (TranslateButton != null) {
                 TranslateButton.Dispose ();
                 TranslateButton = null;
-            }
-
-            if (ValidateButton != null) {
-                ValidateButton.Dispose ();
-                ValidateButton = null;
             }
         }
     }

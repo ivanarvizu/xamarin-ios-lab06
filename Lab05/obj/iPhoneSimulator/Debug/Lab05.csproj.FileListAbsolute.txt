@@ -11,3 +11,4 @@ C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab06\Lab05\obj\iPhoneSim
 C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab06\Lab05\obj\iPhoneSimulator\Debug\Lab05.csprojResolveAssemblyReference.cache
 C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab06\Lab05\obj\iPhoneSimulator\Debug\Lab05.exe
 C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab06\Lab05\obj\iPhoneSimulator\Debug\Lab05.pdb
+C:\Users\PC3\Documents\Visual Studio 2017\Projects\iOS\Lab06\Lab05\bin\iPhoneSimulator\Debug\SALLab06.dll

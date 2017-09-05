@@ -97,6 +97,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ValidationController.cs" />
+    <Compile Include="ValidationController.designer.cs">
+      <DependentUpon>ValidationController.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
@@ -111,6 +115,9 @@
     </Reference>
     <Reference Include="SALLab05">
       <HintPath>..\..\..\..\..\..\Downloads\Lab05\SALLab05.dll</HintPath>
+    </Reference>
+    <Reference Include="SALLab06">
+      <HintPath>..\..\..\..\..\..\Downloads\Lab06(1)\SALLab06.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.IO.Compression" />

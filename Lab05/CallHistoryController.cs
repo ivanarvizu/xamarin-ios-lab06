@@ -7,7 +7,7 @@ namespace Lab05
 {
     public partial class CallHistoryController : UITableViewController
     {
-        public List<string> Phonenumbers { get; set; }
+        public List<string> PhoneNumbers { get; set; }
         protected NSString CallHistoryCellID = new NSString("CallHistoryCell");
 
         class CallHistoryDataSource : UITableViewSource
@@ -23,13 +23,13 @@ namespace Lab05
             public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
             {
                 var Cell = tableView.DequeueReusableCell(Controller.CallHistoryCellID);
-                Cell.TextLabel.Text = Controller.Phonenumbers[indexPath.Row];
+                Cell.TextLabel.Text = Controller.PhoneNumbers[indexPath.Row];
                 return Cell;
             }
 
             public override nint RowsInSection(UITableView tableview, nint section)
             {
-                return Controller.Phonenumbers.Count;
+                return Controller.PhoneNumbers.Count;
             }
         }
 

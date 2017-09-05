@@ -59,7 +59,7 @@ namespace Lab05
             base.PrepareForSegue(segue, sender);
             if(segue.DestinationViewController is CallHistoryController Controller)
             {
-                Controller.Phonenumbers = PhoneNumbers;
+                Controller.PhoneNumbers = PhoneNumbers;
             }
         }
 
@@ -69,10 +69,7 @@ namespace Lab05
             // Release any cached data, images, etc that aren't in use.
         }
 
-        partial void ValidateButton_TouchUpInside(UIButton sender)
-        {
-            Validate();
-        }
+       
 
         async void Validate()
         {
